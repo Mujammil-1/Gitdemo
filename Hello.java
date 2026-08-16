@@ -4,6 +4,6 @@ public class Hello {
         System.out.println("Automatic Build Triggered");
         System.out.println("Automatic Build Triggered Successfully");
     }
-}
+
     }
-}
+
